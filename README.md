@@ -36,10 +36,3 @@ Para mais informações ou dúvidas, entre em contato com os desenvolvedores do 
 
 - Flutter: [Versão do Flutter utilizada]
 - Dart: [Versão do Dart utilizada]
-
-## Configuração do Projeto
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/painel-meus-condominios.git
